@@ -16,12 +16,20 @@ description: "We are a group of professionals with vast experience in Cloud
 intro:
   blurbs:
     - image: /img/17273320521600702426-256.png
-      text: Cloud migration and automation. Save resources by automating your
-        infrastructure in the cloud. Optimize your devops and support teams with
-        the aid of AI and automatization.
+      text: |-
+        Cloud migration and automation.
+         Save resources by automating your infrastructure in the cloud. 
     - image: /img/754937141537184110-256.png
       text: Cybersecurity services for your infrastructure and applications. Gain
         compliance with GDPR, HIPAA, SOC 2, ISO 27001, PCI/DSS and others.
+    - image: /img/6880305081548402133-256.png
+      text: >-
+        Automation and AI.
+
+        Optimize your devops and support teams with the aid of AI and automatization.
+    - image: /img/3647897561535007648-256.png
+      text: Cybersecurity Trainings and Consulting. We can provide your teams with
+        targeted trainings or Cybersecurity 101 for all employees.
   heading: Achieve Your Next Level
   description: >-
     We are a group of professionals with vast experience in Cloud Technologies
