@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Achieve Your Next Level
-image: /img/philipp-katzenberger-iijruoerocq-unsplash.jpg
+image: /img/adi-goldstein-eusvweosble-unsplash.jpg
 heading: Achieve Your Next Level
 subheading: Infrastructure And Cybersecurity Services
 mainpitch:
@@ -15,11 +15,11 @@ description: "We are a group of professionals with vast experience in Cloud
   to help them achieve modern deployments for their services in the cloud.  "
 intro:
   blurbs:
-    - image: /img/17273320521600702426-128.png
+    - image: /img/17273320521600702426-256.png
       text: Cloud migration and automation. Save resources by automating your
         infrastructure in the cloud. Optimize your devops and support teams with
         the aid of AI and automatization.
-    - image: /img/7041460121628783198-128.png
+    - image: /img/754937141537184110-256.png
       text: Cybersecurity services for your infrastructure and applications. Gain
         compliance with GDPR, HIPAA, SOC 2, ISO 27001, PCI/DSS and others.
   heading: Achieve Your Next Level
