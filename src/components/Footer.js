@@ -15,7 +15,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="InfraSecurity"
-            style={{ width: "14em", height: "10em" }}
+            style={{ width: "7em", height: "5em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -34,26 +34,9 @@ const Footer = class extends React.Component {
                         About
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
+
+                
+             
                   </ul>
                 </section>
               </div>
