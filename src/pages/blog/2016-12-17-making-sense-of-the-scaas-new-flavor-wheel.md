@@ -8,4 +8,4 @@ featuredimage: /img/joshua-gandara-xxn48oa73sm-unsplash.jpg
 tags:
   - cybersecurity
 ---
-![flavor wheel](/img/joshua-gandara-xxn48oa73sm-unsplash.jpg)
+![Cybersecurity News](/img/joshua-gandara-xxn48oa73sm-unsplash.jpg)
