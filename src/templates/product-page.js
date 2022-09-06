@@ -16,10 +16,7 @@ export const ProductPageTemplate = ({
   heading,
   description,
   intro,
-  main,
-  testimonials,
-  fullImage,
-  pricing,
+
 }) => {
   const heroImage = getImage(image) || image;
   const fullWidthImage = getImage(fullImage) || fullImage;
@@ -174,54 +171,8 @@ export const productPageQuery = graphql`
           heading
           description
         }
-        main {
-          heading
-          description
-          image1 {
-            alt
-            image {
-              childImageSharp {
-                gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
-              }
-            }
-          }
-          image2 {
-            alt
-            image {
-              childImageSharp {
-                gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
-              }
-            }
-          }
-          image3 {
-            alt
-            image {
-              childImageSharp {
-                gatsbyImageData(quality: 72, layout: FULL_WIDTH)
-              }
-            }
-          }
-        }
-        testimonials {
-          author
-          quote
-        }
+        
 
-        full_image {
-          childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
-          }
-        }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
       }
     }
   }

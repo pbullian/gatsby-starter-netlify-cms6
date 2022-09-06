@@ -46,7 +46,9 @@ export const IndexPageTemplate = ({
                       <Link className="btnlarge" to="/contact">
                         Contact Us
                       </Link>
+                      
                     </div>
+                    
                   </div>
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
